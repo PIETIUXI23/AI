@@ -1,0 +1,9 @@
+PTTT       | TT Ke                     | Q                         | L                        
+-------------------------------------------------------------------------------------
+A          | B, C, D                   | A, B, C, D                | D, C, B                  
+D          | C, F                      | A, B, C, D, F             | F, C, B                  
+F          | K                         | A, B, C, D, F, K          | K, C, B                  
+C          | E, F                      | A, B, C, D, E, F, K       | E, B                     
+E          | G, K                      | A, B, C, D, E, F, G, K    | G, B                     
+G          | TT                        |                           |                          
+3: A->C->E->G

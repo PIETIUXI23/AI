@@ -1,0 +1,16 @@
+1.~A(x) | ~B(x) | P(x)
+2.~C(x) | ~D(x) | P(x)
+3.~E(x) | C(x)
+4.A(x)
+5.E(x)
+6.D(x)
+7.P(x) //phu dinh cua cau can truy van
+8.res(1,4)=['P(x) | ~B(x)']
+9.res(2,3)=['P(x) | ~D(x) | ~E(x)']
+10.res(2,6)=['P(x) | ~C(x)']
+11.res(3,5)=['C(x)']
+12.res(2,11)=['P(x) | ~D(x)']
+13.res(3,10)=['P(x) | ~E(x)']
+14.res(5,9)=['P(x) | ~D(x)']
+15.res(6,9)=['P(x) | ~E(x)']
+~P(x) khong la he qua logic cua cac cau (1) -- (6).

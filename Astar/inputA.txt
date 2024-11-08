@@ -1,0 +1,13 @@
+10
+A 14 B 0 C 15 D 6 E 8 F 7 G 12 H 10 K 2 I 4
+4 A C 9 D 7 E 13 F 20
+0 B
+1 C H 6
+2 D E 4 H 8
+2 E K 4 I 3
+2 F G 4 I 6
+0 G
+1 H K 5
+2 I B 5 K 9
+1 K B 6
+A B

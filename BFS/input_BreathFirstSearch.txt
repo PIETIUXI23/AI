@@ -1,0 +1,12 @@
+9
+3 A B C D
+2 B I G
+2 C E F
+2 D C F
+2 E G K 
+1 F K 
+0 G 
+1 I G
+0 K 
+A G 
+
